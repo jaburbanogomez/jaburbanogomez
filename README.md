@@ -1,5 +1,6 @@
+# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg4Ymczbm03eWNienk2M2s2bWllcWdwN2ZvaXhnN2gxZ3lhY281aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="100"/>GitHub Profile
 ![Banner de JaBurbano](BannerJaBurbano.PNG)
-# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg4Ymczbm03eWNienk2M2s2bWllcWdwN2ZvaXhnN2gxZ3lhY281aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="60"/>
+
 
 # 💫 About Me:
 ¡Hello! I am Jorge, a passionate and enthusiastic software developer based in Colombia. <br>My goal is simple: contribute significantly to projects that challenge my skills and allow me to grow as a professional. <br>I look forward to the opportunity to contribute and grow with your team. <br>Let's do amazing things together!
